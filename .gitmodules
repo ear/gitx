@@ -9,4 +9,4 @@
 	url = git://github.com/alexgorbatchev/SyntaxHighlighter.git
 [submodule "MGScopeBar"]
 	path = MGScopeBar
-	url = git://github.com/rowanj/MGScopeBar.git
+	url = https://github.com/rowanj/MGScopeBar.git
